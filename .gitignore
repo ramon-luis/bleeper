@@ -25,3 +25,9 @@
 
 # Ignore Spring files.
 /spring/*.pid
+
+# Ignore secrets
+/db/secrets.yml
+
+# Ignore uploaded test images.
+/public/uploads
