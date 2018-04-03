@@ -2,6 +2,11 @@
 
 Bleeper is a Twitter clone that adds random $%@#-ing bleeps to user posts.
 
+<kbd>
+  <img src="https://github.com/ramon-luis/relish-news/raw/master/bleeper-screenshot.png">
+</kbd>
+<br />
+
 ## Getting Started / Installing
 
 Fork & clone the repo, then...

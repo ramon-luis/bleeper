@@ -1,4 +1,0 @@
-* update to title and static name
-* update homepage to show most recent tweets
-* update colors
-* remove refererences to michael hartl?
