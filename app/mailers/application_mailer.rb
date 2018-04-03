@@ -1,4 +1,4 @@
 class ApplicationMailer < ActionMailer::Base
-  default from: 'noreply@ramon-luis-twitter-clone.herokuapp.com'
+  default from: 'noreply@ramon-luis-bleeper.herokuapp.com'
   layout 'mailer'
 end

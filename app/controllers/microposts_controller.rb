@@ -6,7 +6,7 @@ before_action :correct_user, only: [:destroy]
 def create
   @micropost = current_user.microposts.build(micropost_params)
   if @micropost.save
-    flash[:success] = "Micropost created!"
+    flash[:success] = "Bleep $%@#-ing created!"
     redirect_to root_url
   else
     @feed_items = []
@@ -16,7 +16,7 @@ end
 
 def destroy
   @micropost.destroy
-  flash[:success] = "Micropost deleted"
+  flash[:success] = "Bleep $%@#-ing deleted"
   redirect_to request.referrer || root_url
 end
 
